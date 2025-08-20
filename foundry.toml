@@ -1,0 +1,5 @@
+[profile.default]
+
+# forge i foundry-rs/forge-std
+# forge i ensdomains/ens-contracts
+# forge i OpenZeppelin/openzeppelin-contracts
