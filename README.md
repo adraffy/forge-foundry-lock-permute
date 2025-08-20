@@ -3,7 +3,7 @@
 Repeated `forge i` randomly permutes `foundry.lock`.
 
 ### A, B, C
-```
+```json
 {
   "lib/forge-std": {
     "tag": {
